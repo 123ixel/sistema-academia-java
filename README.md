@@ -35,13 +35,9 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-## 💻 Como executar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/123ixel/sistema-academia-java.git
-
-
+## 💡 Observação
+Este projeto faz parte dos meus estudos em programação e será atualizado conforme eu evoluo.
 
 
 
